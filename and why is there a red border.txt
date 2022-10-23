@@ -1,0 +1,25 @@
+and why is there a red border?
+and why doesn't the text take from the theme like any other plugin
+
+Ans: Becuase your plugin is not fully developed form start .
+You had a site and I have to usee the same css,js and php code with some additional css,js,php code
+so it is for the old one
+
+and please remove your branding "wl" from everything
+ans: it is a wordPress good practise to add a prefix to stay away from conflict
+I will remove and send a new version.
+
+if anything it should be my branding "aa" for aurora admin
+
+when I log in it takes me to the admin page which is NOT good for security
+Ans: No it is not anyt security issue .
+
+Beccausee when a admin login he see admin thing
+when a use/subscribe login he see subscriber thing
+
+So if I want to build a login page and then redirect it to manu it is a lot 
+of task in your budget .. Please remember see your budget,
+
+So what is easy in your budget i did that
+
+-------------------------------------------------------------------

@@ -1,0 +1,29 @@
+/*
+Plugin Name: satellite Plugin
+Plugin URI: https://simplerscript.com/
+Description: A custom satellite data Viewing  Plugin Use the Below short codes Check Under Setting Menu
+Author: Yeasir Arafat (arafat.dml@gmail.com | fiverr.com/web_lover)
+Author URI: https://www.upwork.com/freelancers/~019c035e6523d87f93
+Text Domain: satellite
+Version: 1.0
+*/
+
+"satellite Plugin" is a wordPress plugin 
+that develop by Yeasir arafat From a template .
+
+The template owner is the client who serve the tempalte
+But the wordPress code to make the template as a wordPress Plugin is
+belong to the developer That is: Yeasir Arafat Email: arafat.dml@gmail.com
+and This plugin can only be use by author permission . Author can sell it
+Distribute it or can sell copy of it.
+
+What are the assets that arre  included in copyright
+1. wordPress plugin conversion php code including the helper function that written by developer (arafat.dml@gmail.com)
+2. Css codes
+3. javascript codes
+
+Without the permission of the author (arafat.dml@gmail.com) to use this plugin is
+a seried violation of the copyright. The software is protected by copyright
+
+Copyright © arafat.dml@gmail.com All right reserved
+
